@@ -1,0 +1,63 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directory
+venv/
+.env/
+
+# Cache files
+*.log
+*.sqlite3
+db.sqlite3
+*.db
+
+# Environment variables
+*.env
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test coverage
+.coverage
+*.cover
+.hypothesis/
+
+# PyInstaller files
+*.spec
+
+# Linter output
+pylint.log
+flake8.log
+
+# MyPy
+.mypy_cache/
+
+# Others
+*.log
+*.bak
+*.tmp
+*.old
+
+# Git conflicts
+*.orig
