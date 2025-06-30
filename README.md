@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/harehimself/pydantic-lab/main/pydantic-lab.png" alt="Pydantic Lab Banner">
+   <img src="https://raw.githubusercontent.com/harehimself/pydantic-ai-lab/main/pydantic-lab.png">
 </p>
 
 <p align="center">
